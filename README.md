@@ -1,8 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manthan Singh Shekhawat
-===============================================================================================================================================
+<div align="center">
+<p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /></p>
+  </div>  
 
-👀An Artificial Intelligence and Data Science Enthusiast
---------------------------------------------------------
+<h2 align="center">Hii ! <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, <a href="https://www.linkedin.com/in/manthanshekhawat/" target="_blank"> I'm Manthan Singh Shekhawat</h2>
+
+<h3 align="center"> 👀An Artificial Intelligence and Data Science Enthusiast </h3>
 
 I'm a Final Year BTech CS student from Poornima University, Jaipur, India. I am deeply interested in Machine Learning, Deep Learning, NLP, and Reinforcement Learning. Through my academic experiences, I have gained a strong base on theoretical and practical concepts across various areas of Computer Science. As an innovative, creative thinker, I always look forward to collaborating on new projects or working with new technologies to grow my expertise.
 
@@ -30,6 +32,10 @@ src="https://img.shields.io/github/followers/manthansinghshekhawat?logo=github&s
 
 <p align="left"> <a href="https://www.github.com/manthansinghshekhawat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/manthanshekhawat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/manthanshekhawat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/manthanshekhawat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Manthan_singh_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=manthansinghshekhawat&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
+  
+  
 ### Badges
 
 <b>My GitHub Stats</b>
