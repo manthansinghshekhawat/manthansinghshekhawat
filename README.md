@@ -43,29 +43,8 @@ With **3+ years of engineering experience**, I build robust, scalable systems wh
 
 </div>
 
----
 
-### 🏆 Top Projects (Live)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-repos?username=manthansinghshekhawat&theme=react&hide_border=true&bg_color=0d1117&layout=compact" alt="Top Repositories" />
-</div>
-
-<br/>
-
-### 📊 GitHub Analytics
-
-<div align="center">
-<table>
-  <tr>
-    <td width="60%">
-      <img src="https://github-readme-stats.vercel.app/api?username=manthansinghshekhawat&show_icons=true&count_private=true&include_all_commits=true&hide=issues&theme=react&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthansinghshekhawat&layout=compact&theme=react&bg_color=0d1117&hide_border=true&langs_count=6" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manthansinghshekhawat&theme=react&background=0D1117&hide_border=true" alt="Streak Stats" />
 </div>
