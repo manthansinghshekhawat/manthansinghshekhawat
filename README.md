@@ -45,15 +45,10 @@ With **3+ years of engineering experience**, I build robust, scalable systems wh
 
 ---
 
-### 🏆 Top Projects & Activity
+### 🏆 Top Projects (Live)
 
 <div align="center">
-  <a href="https://github.com/manthansinghshekhawat/INSERT_REPO_NAME_HERE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manthansinghshekhawat&repo=INSERT_REPO_NAME_HERE&theme=react&bg_color=0d1117&hide_border=true" alt="Top Repo 1" />
-  </a>
-  <a href="https://github.com/manthansinghshekhawat/INSERT_REPO_NAME_HERE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manthansinghshekhawat&repo=INSERT_REPO_NAME_HERE&theme=react&bg_color=0d1117&hide_border=true" alt="Top Repo 2" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-repos?username=manthansinghshekhawat&theme=react&hide_border=true&bg_color=0d1117&layout=compact" alt="Top Repositories" />
 </div>
 
 <br/>
