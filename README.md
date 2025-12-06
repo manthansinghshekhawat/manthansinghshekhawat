@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Data+Architect;Scaling+Systems+from+0+to+Millions;Generative+AI+for+Enterprise;Python+%7C+PySpark+%7C+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Data+Architect;Scaling+Systems+from+0+to+Millions;Generative+AI+for+Enterprise;Python+%7C+PySpark+%7C+Databricks" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://linkedin.com/in/manthanshekhawat">
@@ -24,7 +24,7 @@ With **3+ years of engineering experience**, I build robust, scalable systems wh
 
 | Domain | Expertise & Value Delivery |
 | :--- | :--- |
-| **🌊 Enterprise Data Pipelines** | <br>• Architecting fault-tolerant **ETL/ELT pipelines using PySpark** and Airflow.<br>• optimizing heavy data loads for enterprise warehouses.<br>• Designing schemas for scalability and low-latency querying. |
+| **🧱 Databricks Ecosystems** | <br>• **Building full-blown systems on Databricks:** Architecting end-to-end solutions from ingestion to insights.<br>• Managing Delta Lakehouse architectures & optimizing PySpark jobs for petabyte-scale processing.<br>• Designing fault-tolerant ETL/ELT pipelines using Airflow & Unity Catalog. |
 | **🧠 Generative AI Ecosystems** | <br>• Building **full-scale GenAI business applications** (beyond simple RAG demos).<br>• Custom LLM fine-tuning, vector database orchestration, and agentic workflows.<br>• Serving models that solve tangible business problems with measurable ROI. |
 | **📈 Hyperscale Architecture** | <br>• **Scaling applications from 0 to 1 Million+ users.**<br>• Full-stack proficiency (Frontend to Backend) ensuring the UI can handle the AI's throughput.<br>• Microservices design using FastAPI/Django and React/Next.js. |
 | **⚙️ Automated DevOps** | <br>• Implementation of strictly automated **CI/CD pipelines via GitHub Actions**.<br>• Containerization (Docker/Kubernetes) for reproducible production environments.<br>• Infrastructure as Code (IaC) and cloud-native deployment strategies. |
@@ -37,7 +37,7 @@ With **3+ years of engineering experience**, I build robust, scalable systems wh
 
 | **Core** | **AI & ML** | **Data & Cloud** | **DevOps & Tools** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python,cpp,js" /> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,kafka" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions" /> |
+| <img src="https://skillicons.dev/icons?i=python,cpp,js" /> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" /> | <img src="https://skillicons.dev/icons?i=aws,azure,mysql,mongodb,kafka" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions" /> |
 | **Backend** | **Frontend** | **Frameworks** | **OS** |
 | <img src="https://skillicons.dev/icons?i=django,flask,fastapi" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" /> | <img src="https://skillicons.dev/icons?i=nodejs,express" /> | <img src="https://skillicons.dev/icons?i=linux,ubuntu" /> |
 
@@ -45,27 +45,32 @@ With **3+ years of engineering experience**, I build robust, scalable systems wh
 
 ---
 
-### 📊 GitHub Analytics & History
+### 🏆 Top Projects & Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manthansinghshekhawat&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <a href="https://github.com/manthansinghshekhawat/INSERT_REPO_NAME_HERE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manthansinghshekhawat&repo=INSERT_REPO_NAME_HERE&theme=react&bg_color=0d1117&hide_border=true" alt="Top Repo 1" />
+  </a>
+  <a href="https://github.com/manthansinghshekhawat/INSERT_REPO_NAME_HERE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manthansinghshekhawat&repo=INSERT_REPO_NAME_HERE&theme=react&bg_color=0d1117&hide_border=true" alt="Top Repo 2" />
+  </a>
 </div>
 
-<br />
+<br/>
+
+### 📊 GitHub Analytics
 
 <div align="center">
 <table>
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=manthansinghshekhawat&show_icons=true&count_private=true&hide=issues,contribs&theme=react&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+    <td width="60%">
+      <img src="https://github-readme-stats.vercel.app/api?username=manthansinghshekhawat&show_icons=true&count_private=true&include_all_commits=true&hide=issues&theme=react&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
     </td>
-    <td width="50%">
+    <td width="40%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthansinghshekhawat&layout=compact&theme=react&bg_color=0d1117&hide_border=true&langs_count=6" alt="Top Languages" />
     </td>
   </tr>
 </table>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manthansinghshekhawat&theme=react&background=0D1117&hide_border=true" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manthansinghshekhawat&theme=react&background=0D1117&hide_border=true" alt="Streak Stats" />
 </div>
